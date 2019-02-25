@@ -2,8 +2,8 @@
 // @name         Convert jpg:large urls to jpg on Twitter
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Redirect jpg:large urls to jpg urls
+// @author       Chris Renwick
 // @match        https://pbs.twimg.com/media/*
 // @grant        none
 // ==/UserScript==
